@@ -1,0 +1,7 @@
+print("VOUS TRAVAILLEZ BIEN SUR LE PFE DU GROUPE11-LIR21_22")
+print("MEMBRE DU GROUPE:")
+print("------NDJATA MBITKEBEYO Willy Jonathan ->QSIR")
+print("------KENMOGNE POUOMEUGNE Vannelle ----->QSIR")
+print("------YUMKAM SIMO Elvira Audrey--------->CDRI")
+print("Théme: IDENTIFICATION ET LOCALISATION D'UN OBJET SUR UN IMAGE")
+print("le projet est en cours de Conception...")
